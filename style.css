@@ -1,0 +1,42 @@
+header{
+    height: 200x; 
+    background-color: blue(169, 169, 222)
+}
+h1{
+    text-align: center;
+    color:black
+    
+    
+}
+main{
+    background-color: brown;
+    height: 530xp;
+    display:flex;
+}
+div{
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 400px;
+    justify-content: space-around;
+    margin: 30px;
+    text-align: center;
+    color: #000;
+    font-size: 40px;
+}
+img{
+    width: 193px;
+    height: 193px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+    border-radius: 10px;
+    font-size: 30px;
+}
+footer{
+    height: 70px;
+    font-size: 30px;
+    color: brown;
+    background-color: rgba(7, 14, 14, 0.034);
+}
